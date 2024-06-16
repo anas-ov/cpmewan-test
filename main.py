@@ -7,7 +7,7 @@ from rich.console import Console
 from rich.prompt import Prompt, IntPrompt
 from cpmewan import CPMEwan
 
-__CHANNEL_USERNAME__ = "Ewan1999Ewan"
+__CHANNEL_USERNAME__ = "Ewan1999Ewans"
 __GROUP_USERNAME__   = "Ewan19_99Ewan"
 
 def signal_handler(sig, frame):
